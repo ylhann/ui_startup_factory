@@ -1,0 +1,6 @@
+{
+  "name": "Startup Universe Sim",
+  "description": "A startup simulation game where AI agents (employees) work, collaborate in break rooms, and pitch their products in weekly meetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
